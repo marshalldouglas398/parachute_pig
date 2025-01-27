@@ -1,6 +1,4 @@
 # Marshall Pigford
-# Section 012
-# pigford@email.sc.edu
 # Jump Game
 
 ######################Logs######################
